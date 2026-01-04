@@ -1,7 +1,8 @@
 # Day 03 – Jupyter Notebook & JupyterLab
 
 ## What is Jupyter?
-Jupyter is an open-source tool used for creating and sharing documents that contain live code, visualizations, equations, and explanatory text.
+Jupyter is an open-sourc
+e tool used for creating and sharing documents that contain live code, visualizations, equations, and explanatory text.
 
 It is widely used in Data Science for learning, experimentation, and data exploration.
 
