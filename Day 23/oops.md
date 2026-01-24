@@ -1,4 +1,4 @@
-# Day 04 – Object-Oriented Programming (OOPs) in Python 
+# Day 23 – Object-Oriented Programming (OOPs) in Python 
 
 This folder contains my learning notes and practice code for **Object-Oriented Programming (OOPs) in Python** as part of my **Data Science Journey 2026**.
 
