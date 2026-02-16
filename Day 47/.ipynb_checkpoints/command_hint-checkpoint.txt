@@ -1,0 +1,1 @@
+python "C:\Users\Anshika\OneDrive\Desktop\cwh\Data-Science-Journey-2026\Day 47\plot_eg.py"
